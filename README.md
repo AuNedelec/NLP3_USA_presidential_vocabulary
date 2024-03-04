@@ -1,4 +1,4 @@
-# Prokect 3 : USA presidential vocabulary
+# Project 3 : USA presidential vocabulary
 
 This project was realized within [Codecademy](https://www.codecademy.com/)'s course  [Apply Natural Language Processing with Python](https://www.codecademy.com/learn/paths/natural-language-processing).
 The code is available both as a Jupyther Notebook and as a Python script for better accessibility and clarity.
